@@ -1,5 +1,12 @@
 # Changelog
 
+## [19.66.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.66.0...v19.66.1) (2024-07-09)
+
+
+### Bug Fixes
+
+* Fix `getFromLookup` when retrieved value is `null` https://github.com/Koenkk/zigbee2mqtt/issues/21357 ([1d71b43](https://github.com/Koenkk/zigbee-herdsman-converters/commit/1d71b43ab6c04303e765787a6ff477401f806f5c))
+
 ## [19.66.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.65.0...v19.66.0) (2024-07-09)
 
 
